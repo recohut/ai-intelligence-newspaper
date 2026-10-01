@@ -6,9 +6,13 @@ This repository is only a public README index. Reports are hosted on S3.
 
 ## Latest Report
 
-- [September 30, 2026 - Daily AI Intelligence Brief](https://recohut-public-reports.s3.amazonaws.com/daily-briefs/daily-ai-intelligence-brief-2026-09-30.html)
+- [October 1, 2026 - Daily AI Intelligence Brief](https://recohut-public-reports.s3.amazonaws.com/daily-briefs/daily-ai-intelligence-brief-2026-10-01.html)
 
 ## Reports
+
+### October 2026
+
+- [October 1, 2026 - Daily AI Intelligence Brief](https://recohut-public-reports.s3.amazonaws.com/daily-briefs/daily-ai-intelligence-brief-2026-10-01.html)
 
 ### September 2026
 
